@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohmaejoqu.jan-gerd.com/sitemap.xml
